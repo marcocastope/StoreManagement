@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 0,
+    "Category": "Alimento",
+    "Price": 10.99,
+    "Title": "Miel de abeja",
+    "Description": "La miel es un fluido muy dulce y viscoso producido por abejas del género Apis, principalmente la abeja doméstica, a partir del néctar de las flores o de secreciones de partes vivas de plantas o de excreciones de insectos chupadores de plantas."
+  },
+  {
+    "Id": 0,
+    "Category": "Alimento",
+    "Price": 5.99,
+    "Title": "Algarrobina",
+    "Description": "La algarrobina es un producto derivado de la algarroba,  fruto maduro del algarrobo."
+  },
+  {
+    "Id": 0,
+    "Category": "Alimento",
+    "Price": 4.99,
+    "Title": "Polen",
+    "Description": "Polen (del latín pollen, «polvillo muy fino») es el nombre colectivo de los granos, más o menos microscópicos, que producen las plantas con semilla (espermatófitas), cada uno de los cuales contiene un microgametófito (gametófito masculino)."
+  },
+  {
+    "Id": 0,
+    "Category": "Alimento",
+    "Price": 20.99,
+    "Title": "Maca Negra",
+    "Description": "La maca negra es un energizante 100% natural y potenciado, debido a que la maca negra es un super alimento compuesto de múltiples nutrientes como los aminoácidos, antioxidantes, ácidos grasos, carbohidratos, glucosinolatos, vitamina C, complejo B, fibra, magnesio, zinc , hierro y calcio.."
+  },
+  {
+    "Id": 0,
+    "Category": "Alimento",
+    "Price": 15.99,
+    "Title": "Maca Roja",
+    "Description": "La maca roja mejora el deseo sexual y no altera la capacidad eréctil de los hombres que sufren el crecimiento de la próstata y por ello consumen medicamentos estándar que les genera efectos secundarios, informaron especialistas de la Universidad Peruana Cayetano Heredia (UPCH)."
+  },
+  {
+    "Id": 0,
+    "Category": "Frutas",
+    "Price": 5.99,
+    "Title": "Manzana",
+    "Description": "La manzana es el fruto comestible de la especie Malus domestica, el manzano común. Es una fruta pomácea de forma redonda y sabor muy dulce, dependiendo de la variedad."
+  },
+  {
+    "Id": 0,
+    "Category": "Frutas",
+    "Price": 3.99,
+    "Title": "Fresa",
+    "Description": "Fragaria, llamado comúnmente fresa o frutilla, es un género de plantas rastreras estoloníferas de la familia Rosaceae. Agrupa unos 400 taxones descritos, de los cuales solo unos 20 están aceptados"
+  },
+  {
+    "Id": 0,
+    "Category": "Frutas",
+    "Price": 2.99,
+    "Title": "Mango",
+    "Description": "El mango es una fruta tierna pero consistente y de sabor dulce. Un gran aliado para los deportistas debido a su gran aporte vitamínico"
+  }
+]
