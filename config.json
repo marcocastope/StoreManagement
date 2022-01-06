@@ -1,0 +1,5 @@
+{
+  "ConnectionString": {
+    "DefaultDBConection": "Server=127.0.0.1,1433;Database=BaseCollege;User Id=SA;Password=Secret_123"
+  }
+}
