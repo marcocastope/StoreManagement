@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewBag.Title = "Shop Page";
+}
+<h2>Bienvenido a @ViewBag.Title</h2>
+
+<p>Cantidad: @Model.Count()</p>
+@foreach (var item in Model)
+{
+    <li>@item.Title</li>
+}
